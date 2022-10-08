@@ -1,0 +1,1 @@
+# Main goal of the project show general components of the kafka and they interaction
