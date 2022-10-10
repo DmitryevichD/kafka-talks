@@ -5,6 +5,7 @@ Cluster contains:
 - ZooKeeper three instances
 - Kafka three instances
 - ZooKeeper navigator (UI) one instance
+- AKHQ (Apache Kafka HQ) - Kafka GUI
 
 # Project structure
 - [.env](.env) - variables used into docker-compose 
@@ -19,3 +20,5 @@ Cluster contains:
   + connection string: `localhost:22181`
   + auth username: `zookeeper`
   + auth password: '' (blank)
+
+## Open AKHQ UI [http://localhost:8080](http://localhost:8080)
